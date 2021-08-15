@@ -1,1 +1,1 @@
-# MaintenanceWindowAction
+# hello-world-javascript-action
